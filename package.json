@@ -1,10 +1,10 @@
 {
-  "name": "zce-pages",
-  "version": "0.2.0",
+  "name": "frida-pages",
+  "version": "0.3.0",
   "description": "static web app workflow",
   "keywords": [
-    "zce-pages",
-    "zce"
+    "frida-pages",
+    "frida"
   ],
   "homepage": "https://github.com/zce/zce-pages#readme",
   "bugs": {
