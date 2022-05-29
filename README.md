@@ -11,6 +11,22 @@
 
 ## Installation
 
+
+git init
+git branch -M main
+git remote add origin git@github.com:ashelyyan321/frida-pages.git
+git status
+git add .
+git commit -m "feat:inital commit"
+git push -u origin main 
+
+yarn //安装依赖
+(base) frida@MacBook-Pro frida-pages % yarn link
+(base) frida@MacBook-Pro fridagulp % yarn link "zce-pages"
+
+打开两个文件夹 code . -a
+
+
 ```shell
 $ yarn add zce-pages
 
